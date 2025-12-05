@@ -1,11 +1,13 @@
 ## Hi there 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KamilaKorczynska&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KamilaKorczynska&layout=compact&theme=tokyonight)
+I'm a Computer Science student at the University of Wroclaw
 
+### Main languages:  
+[![My Skills](https://skillicons.dev/icons?i=cpp,py)](https://skillicons.dev)
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)
+### Familiar with:  
+[![My Skills](https://skillicons.dev/icons?i=java,js,html)](https://skillicons.dev)
+
 
 
 
