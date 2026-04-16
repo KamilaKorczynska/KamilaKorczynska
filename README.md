@@ -6,7 +6,7 @@ I'm a Computer Science student at the University of Wroclaw
 [![My Skills](https://skillicons.dev/icons?i=cpp,py)](https://skillicons.dev)
 
 ### Familiar with:  
-[![My Skills](https://skillicons.dev/icons?i=java,js,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,java,js,html,bash,blender)](https://skillicons.dev)
 
 
 
